@@ -26,3 +26,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Lıcense
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Patika Profilim
+[Patika.dev](https://app.patika.dev/Yusuf9545)

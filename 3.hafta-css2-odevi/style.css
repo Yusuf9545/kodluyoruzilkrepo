@@ -1,0 +1,89 @@
+.google {
+    width: 1000px;
+    height: 300px;
+}
+
+.logo {
+    width: auto;
+    height: auto;
+}
+
+.search-box {
+    width: 1250px;
+    height: 90px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 15px;
+    background-color: rgb(240, 240, 240);
+}
+
+.linkler {
+    width: 1250px;
+    height: 300px;
+}
+
+.box1-sol {
+    width: 490px;
+    height: 90px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-left: 50px;
+    background-color: aquamarine;
+    float: left;
+}
+
+.box2-orta {
+    width: 270px;
+    height: 90px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-left: 0px;
+    background-color: rgba(1, 221, 221, 0.877);
+    float: left;
+}
+
+.box3-sağ {
+    width: 490px;
+    height: 90px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-left: 810px;
+    background-color: rgba(39, 179, 132, 0.795);
+}
+
+#input {
+    width: 500px;
+    height: 18px;
+    margin-top: 0px;
+}
+
+#input2 {
+    width: 210px;
+    height: 18px;
+}
+
+#btn {
+    width: 150px;
+    height: 20px;
+    text-align: center;
+}
+
+#btn3 {
+    width: 100px;
+    height: 20px;
+}
+
+#btn2 {
+    width: 150px;
+    height: 20px;
+}
+
+#href {
+    color: black;
+}
+
+#href2 {
+    color: black;
+}

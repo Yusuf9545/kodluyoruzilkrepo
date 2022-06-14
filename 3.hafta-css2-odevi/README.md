@@ -1,4 +1,4 @@
-### Kodluyoruz Front-end bootcamp hazırlık grubu
+### Kodluyoruz Front-end Bootcamp Hazırlık Perogramı
 3. Hafta (CSS2 - Google ilk versiyonu) ödevi.
 
 
